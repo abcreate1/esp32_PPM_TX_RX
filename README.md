@@ -2,6 +2,9 @@
 ESP32-Based 6-Channel PPM Transmitter & Receiver for Drones
 This project implements a lightweight 6-channel PPM (Pulse Position Modulation) radio control system for drones using ESP32 microcontrollers and the ESP-NOW protocol.
 
+# working video
+youtube : https://youtube.com/shorts/GxRGWXG40fs?si=OxnmIODwp2zFdwzT
+
 # Key Features
 ✅ ESP32-based wireless RC system (no need for traditional transmitter modules)
 
